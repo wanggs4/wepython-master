@@ -26,7 +26,7 @@ Lie = bot.friends().search(u'Lie')
 
 
 Test = bot.groups().search(u'Test') 
-recallNotice  = ensure_one(bot.groups().search('recallNotice'))  // 改成你要转发的群 或者 个人微信号
+recallNotice  = ensure_one(bot.groups().search('recallNotice'))  # 改成你要转发的群 或者 个人微信号
 
 # 文本 TEXT = 'Text'
 # 位置 MAP = 'Map' 1
