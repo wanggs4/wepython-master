@@ -1,9 +1,7 @@
 
-## 公众号 【小夭同学】
-![gg.gif](http://blogimg.lieme.cn/FsaWonzTLc3IJVZgYDrjHdVEj3HR)
+## 微信公众号 【计算机技术老王】
 
-## 有问题加微信 【jiaopianbot】
-![goodog.png](http://blogimg.lieme.cn/FthzD1OheHpf4ApF72ReM54RPOND)
+## 有问题加微信 【wgs802】
 
 # 本项目的前提是你有一个能在网页版微信登录的账号.如果没有，关闭本页面吧！！！
 
