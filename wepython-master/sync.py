@@ -16,7 +16,7 @@ import random
 import os
 import ctypes
 
-bot = Bot(cache_path=True,console_qr = 2)
+bot = Bot(cache_path=True,console_qr =False)
 myself = bot.self
 bot.enable_puid('wxpy_puid.pkl')
 

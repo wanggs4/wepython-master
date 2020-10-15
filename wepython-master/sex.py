@@ -1,9 +1,9 @@
 from wxpy import *
 import webbrowser
-from pyecharts import Pie
+from pyecharts import Pie, Map, Style, Page, Bar
 
 
-bot = Bot(cache_path=True)  # 弹出二维码登录微信，生成bot对象
+bot = Bot(cache_path=True,console_qr=False)  # 弹出二维码登录微信，生成bot对象
 
 allFriends = bot.friends()  # 获取所有的微信好友信息
 
